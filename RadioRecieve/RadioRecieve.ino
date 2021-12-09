@@ -1,3 +1,5 @@
+/* REV 1 */
+
 /* RadioRecieve **********************************************************
  * Code to allow Arduino Mega to parse RFM69 radio data and send it to RPi
  *************************************************************************/

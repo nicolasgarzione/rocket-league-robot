@@ -1,3 +1,5 @@
+/* REV 1 */
+
 /* motControl *****************************************************************
  * Code to allow Arduino Mega to control motors and send agyroscope data to RPi
  ******************************************************************************/
